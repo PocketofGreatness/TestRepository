@@ -9,3 +9,5 @@ okay - got it to work with issue numbers, what about plain old hash statements?
 Okay - that doesn't work, let's do it by issue number
 
 We're going to make a pull-request to see how pull-request issues are created.
+
+Let's make a change on this fork.
